@@ -1,0 +1,11 @@
+Country,AML_Threshold,Data_Privacy,Regulatory_Agency,Last_Updated
+USA,10000,Strict,FinCEN,2023-06-30
+Canada,7500,Moderate,FINTRAC,2023-06-30
+UK,8500,Strict,FCA,2023-06-30
+Germany,10000,Strict,BaFin,2023-06-30
+Singapore,15000,High,Monetary Authority of Singapore,2023-06-30
+Australia,7000,Moderate,AUSTRAC,2023-06-30
+United Arab Emirates,14000,High,Central Bank of the UAE,2023-06-30
+Japan,9000,Strict,Financial Services Agency (FSA),2023-06-30
+Switzerland,10000,High,FINMA,2023-06-30
+Hong Kong,12500,High,Hong Kong Monetary Authority (HKMA),2023-06-30
